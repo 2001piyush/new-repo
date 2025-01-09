@@ -1,7 +1,7 @@
 package in.prec.staticandfinal.finaldemo;
 
 public final class Holidays {
-final String festival;
+public final String festival;
 final int noOfLeaves;
 public Holidays(String festival,int noOfLeaves) {
 	this.festival=festival;
